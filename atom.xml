@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://linkinterlearn.github.io</id>
+    <title>Linkinter教程中心</title>
+    <updated>2020-06-13T16:05:33.420Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://linkinterlearn.github.io"/>
+    <link rel="self" href="https://linkinterlearn.github.io/atom.xml"/>
+    <subtitle>Hi！这里是Linkinter教程中心</subtitle>
+    <logo>https://linkinterlearn.github.io/images/avatar.png</logo>
+    <icon>https://linkinterlearn.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Linkinter教程中心</rights>
+    <entry>
+        <title type="html"><![CDATA[从0开始的PPT之路 EP1 基础与技巧]]></title>
+        <id>https://linkinterlearn.github.io/post/CZKSDPPTEP1/</id>
+        <link href="https://linkinterlearn.github.io/post/CZKSDPPTEP1/">
+        </link>
+        <updated>2020-06-09T04:52:06.000Z</updated>
+        <content type="html"><![CDATA[<p>从本期开始，我们将会传授一些在PPT中的操作方式与知识，在本文中，我们将会教您PowerPoint的基本操作技巧<br>
+现在，让我们开始吧</p>
+<h2 id="1初步了解ppt的界面">1.初步了解PPT的界面</h2>
+<p><img src="https://pic.downk.cc/item/5ee0bce5c2a9a83be5a9a2be.png" alt="PowerPoint的界面" loading="lazy"><br>
+这是一个最基本的界面，当你打开PowerPoint并且一个新建了新的空白文档时，就会出现这个界面。<br>
+您可以看到,他有一些名为“开始”、“帮助”、“视图”的菜单，我们称他为选项卡，您可以试试看点击他，进入到您选择的选项卡的界面<br>
+在选项卡的下面，就是PPT的功能区了<br>
+PPT的功能都在里边，您可以快速的访问他们，比如新建幻灯片，添加形状<br>
+更下面的是编辑区域，您就是在这里来编辑您的PPT的，旁边是幻灯片缩略图区，您可以点击其他幻灯片的缩略图跳转到其他幻灯片页面</p>
+<blockquote>
+<p>喵 脆 耳（小贴士）: 您可以试试看右键点击自定义功能区，去更改选项卡的名字，顺便一提，iSlide，口袋动画PA都是插件创造的选项卡，什么是插件？我们后面有单独的一大袋插件推荐喵脆耳等着你</p>
+</blockquote>
+<h2 id="2了解开始选项卡">2.了解“开始”选项卡</h2>
+<p><img src="https://pic.downk.cc/item/5ee39856c2a9a83be5c95324.png" alt="开始选项卡" loading="lazy"><br>
+这是“开始”选项卡,您可以看到，这里有“幻灯片”、“字体”、“段落”、“绘图”、“编辑”这些比较主要的模块</p>
+<hr>
+<h3 id="21-首先让我们的目光先聚焦到字体区">2.1 首先，让我们的目光先聚焦到“字体”区</h3>
+<p><img src="https://pic.downk.cc/item/5ee45aa5c2a9a83be59fc0ba.jpg" alt="文本区" loading="lazy"><br>
+这是文本区，在这里您可以更改文本的大小，文本所使用的字体</p>
+<blockquote>
+<p>喵 脆 耳（小贴士）: 您可以试试看到网上找点字体，我们建议使用OPPO Sans 和Google Sans，当然，后面会有单独的一大袋字体技巧喵脆耳等着你</p>
+</blockquote>
+<hr>
+<h3 id="22然后来了解一下绘图区">2.2然后，来了解一下“绘图”区</h3>
+<p><img src="https://pic.downk.cc/item/5ee4a9aac2a9a83be52ceec1.png" alt="绘图区" loading="lazy"><br>
+先看到最左边的区域，<s>那就是传说中的形状↗↗↘↘</s>形状，PPT中最重要的东东，你可以在这里创造形状<br>
+然后，是排列，点他，你可以更改形状的前后顺序，对齐形状，把形状组合，调出选择窗格<br>
+（超小喵脆耳：在XD里面，组合叫做“编组”）</p>
+<h2 id="end">END</h2>
+<p>本期《从0开始的PPT之路》就这样结束了，由于是第一期，不会讲太多的东西，更多的内容请期待之后的喵脆耳和正文</p>
+<hr>
+<h2 id="出品">出品</h2>
+<figure data-type="image" tabindex="1"><img src="https://pic.downk.cc/item/5ee4bfb4c2a9a83be553ab4d.png" alt="出品" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
