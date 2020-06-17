@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://linkinterlearn.github.io</id>
-    <title>Linkinter教程中心</title>
-    <updated>2020-06-14T13:48:43.860Z</updated>
+    <id>https://mxrekstudio.github.io</id>
+    <title>MXS-官网</title>
+    <updated>2020-06-17T15:24:11.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://linkinterlearn.github.io"/>
-    <link rel="self" href="https://linkinterlearn.github.io/atom.xml"/>
-    <subtitle>Hi！欢迎来到Linkinter教程中心</subtitle>
-    <logo>https://linkinterlearn.github.io/images/avatar.png</logo>
-    <icon>https://linkinterlearn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Linkinter教程中心</rights>
+    <link rel="alternate" href="https://mxrekstudio.github.io"/>
+    <link rel="self" href="https://mxrekstudio.github.io/atom.xml"/>
+    <subtitle>欢迎来到MXS的官网</subtitle>
+    <logo>https://mxrekstudio.github.io/images/avatar.png</logo>
+    <icon>https://mxrekstudio.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, MXS-官网</rights>
     <entry>
-        <title type="html"><![CDATA[Linkinter教程目前已经改名为Linkinter技术教程专题，并且本站已经关闭]]></title>
-        <id>https://linkinterlearn.github.io/post/linkinter-jiao-cheng-mu-qian-yi-jing-gai-ming-wei-linkinter-ji-zhu-jiao-cheng-zhuan-ti-bing-qie-ben-zhan-yi-jing-guan-bi/</id>
-        <link href="https://linkinterlearn.github.io/post/linkinter-jiao-cheng-mu-qian-yi-jing-gai-ming-wei-linkinter-ji-zhu-jiao-cheng-zhuan-ti-bing-qie-ben-zhan-yi-jing-guan-bi/">
+        <title type="html"><![CDATA[WE ARE BACK！]]></title>
+        <id>https://mxrekstudio.github.io/post/we-are-back/</id>
+        <link href="https://mxrekstudio.github.io/post/we-are-back/">
         </link>
-        <updated>2020-06-14T12:16:51.000Z</updated>
-        <content type="html"><![CDATA[<p>请前往Linkinter官网https://linkinter.github.io/</p>
+        <updated>2020-06-17T15:05:55.000Z</updated>
+        <content type="html"><![CDATA[<p>MXS现已回归，请期待我们的新作品</p>
 ]]></content>
     </entry>
 </feed>
