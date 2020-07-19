@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MXShop.github.io</id>
-    <title>MXS-官网</title>
-    <updated>2020-07-19T06:17:40.292Z</updated>
+    <title>欢迎回到Surprising store！</title>
+    <updated>2020-07-19T06:24:18.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MXShop.github.io"/>
     <link rel="self" href="https://MXShop.github.io/atom.xml"/>
-    <subtitle>欢迎来到MXS的官网</subtitle>
     <logo>https://MXShop.github.io/images/avatar.png</logo>
     <icon>https://MXShop.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, MXS-官网</rights>
+    <rights>All rights reserved 2020, 欢迎回到Surprising store！</rights>
     <entry>
         <title type="html"><![CDATA[MXS生态圈现已成立！]]></title>
         <id>https://MXShop.github.io/post/mxs-sheng-tai-quan-xian-yi-cheng-li/</id>
