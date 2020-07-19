@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MXShop.github.io</id>
     <title>欢迎回到Surprising store！</title>
-    <updated>2020-07-19T11:03:35.660Z</updated>
+    <updated>2020-07-19T13:08:12.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MXShop.github.io"/>
     <link rel="self" href="https://MXShop.github.io/atom.xml"/>
@@ -10,7 +10,18 @@
     <icon>https://MXShop.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 欢迎回到Surprising store！</rights>
     <entry>
-        <title type="html"><![CDATA[MXS生态圈现已成立！]]></title>
+        <title type="html"><![CDATA[Feel Plus即将发布]]></title>
+        <id>https://MXShop.github.io/post/feel-plus-ji-jiang-fa-bu/</id>
+        <link href="https://MXShop.github.io/post/feel-plus-ji-jiang-fa-bu/">
+        </link>
+        <updated>2020-07-19T13:00:29.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://pic.downk.cc/item/5f14448f14195aa594dc0f51.png" alt="FLP" loading="lazy"><br>
+您现在即可预先购买PRO版本<br>
+请通过该邮箱联系我们以购买：MXrek@outlook.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising生态圈现已成立！]]></title>
         <id>https://MXShop.github.io/post/mxs-sheng-tai-quan-xian-yi-cheng-li/</id>
         <link href="https://MXShop.github.io/post/mxs-sheng-tai-quan-xian-yi-cheng-li/">
         </link>
